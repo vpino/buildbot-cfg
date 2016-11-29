@@ -1,0 +1,8 @@
+python-all-dev
+git-buildpackage
+dupload
+build-essential
+pbuilder
+sudo
+dpatch
+python-debian
